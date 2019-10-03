@@ -1,0 +1,90 @@
+.title{
+	color: #f5f0e4;
+	font-size: 130px;
+
+}
+
+#logo {
+	height: 70px;
+	width: 70px;
+}
+
+.font {
+	font-family: 'Playfair Display', serif;
+}
+
+.name p {
+	color: #f5f0e4;
+	font-size: 30px;
+	text-align: right;
+	margin-right: 30px;
+}
+
+
+.name {
+	background-color: #212121;
+	height: 920px;
+	padding-top: 20%;
+	
+}
+
+.format{
+	width: 1200px;
+}
+
+.about{
+	background-color:  #668572;
+	height: 1000px;
+	padding-top: 13%;
+	color: #212121;
+	
+}
+
+.about h1 {
+	font-size: 70px;
+}
+.about p {
+	font-size: 23px;
+	margin-top: 3%;
+	color: #1c1c1c;
+}
+
+.projects {
+	padding: 15% 3% 8% 3%;
+}
+
+.projects div{
+	display: inline-block;
+	font-size: 20px;
+}
+.card {
+	margin-right: 3%;
+}
+
+.work {
+	background-color: #212121;
+	height: 980px;
+
+}
+
+img {
+	height: 300px;
+	
+}
+
+.card-body {
+	background-color: #668572;
+}
+.card-border {
+	background-color: #668572;
+}
+
+footer {
+	background-color: #1c1c1c;
+	color: #e8e8e8;
+	padding-top: 2%;
+}
+
+#copyright {
+	color: #e8e8e8;
+}
